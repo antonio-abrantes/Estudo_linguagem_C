@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471788662 source:e:\programação i\linguagem c\treinaweb - c intermediario\twdata2\main.c
+	<stdio.h>
+	<mysql.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457899181 source:c:\users\tonhus\use a carbeça - c\allegro1\main.c
+	<allegro.h>
+	<stdio.h>
+
